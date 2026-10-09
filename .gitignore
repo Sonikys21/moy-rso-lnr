@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.vercel/
+vercel-site/
+presentation-assets/
+*.docx
+*.pptx
+*.pdf
+*.log
+node_modules/
